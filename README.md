@@ -40,7 +40,7 @@ src="https://img.shields.io/twitter/follow/Chris_Oketch?logo=twitter&style=for-t
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Thedongraphix/Frontend-Project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Thedongraphix&repo=Frontend-Project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Thedongraphix/Authentication-dashboard" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Thedongraphix&repo=Authentication-dashboard&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Thedongraphix/React-Project" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Thedongraphix&repo=React-Project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
 
