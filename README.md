@@ -16,9 +16,6 @@ I'm a passionate and self-driven Frontend Developer with an ambition of providin
 <a href="https://www.x.com/Chris_Oketch" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Chris_Oketch?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
-<a href="https://www.instagram.com/_itschrisoketch" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Chris_Oketch?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
 
 ### Skills
 
