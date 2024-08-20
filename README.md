@@ -11,7 +11,11 @@ I'm a passionate and self-driven Frontend Developer with an ambition of providin
 * ✉️  You can contact me at [chrisoketchcon@gmail.com](mailto:chrisoketchcon@gmail.com)
 * 🧠  I'm learning React JS and Laravel
 * 🤝  I'm open to collaborating on FrontEnd Project with a framework like React js
+* ⚡  Take the risk or lose the chance
 
+<a href="https://www.x.com/Chris_Oketch" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/Chris_Oketch?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
 <a href="https://www.x.com/Chris_Oketch" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Chris_Oketch?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
