@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🌍  I'm based in Kenya<br>* 🖥️  See my portfolio at [Visit My Portfolio](http://thedongraphix.netlify.app )<br>* ✉️  You can contact me at [chrisoketchcon@gmail.com](mailto:chrisoketchcon@gmail.com)<br>* 🧠  I'm learning React JS and Laravel<br>* 🤝  I'm open to collaborating on FrontEnd Project with a framework like React js<br>* ⚡  Take the risk or lose the chance
+ Hi there,I'm Chris a versatile and self-motivated Frontend Developer based in Kenya* 🖥️  See my portfolio at [Visit My Portfolio](http://thedongraphix.netlify.app )<br>* ✉️  You can contact me at [chrisoketchcon@gmail.com](mailto:chrisoketchcon@gmail.com)<br>* 🧠  I'm learning React JS and Laravel<br>* 🤝  I'm open to collaborating on FrontEnd Project with a framework like React js<br>* ⚡  Take the risk or lose the chance
 
 
 ## 🌐 Socials:
