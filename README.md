@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Chris Oketch
 Hi there,I'm Chris a versatile and self-motivated Frontend Developer based in Kenya<br>🔭 I’m currently working on my backend skills with Node and Express js<br>👯 I’m looking to collaborate on any FrontEnd Project<br>🌱 I’m currently learning Laravel and Vuejs<br>💬 Ask me about Web Development and its related fields.<br>⚡ Visit my portfolio website thedongraphix.netlify.app 
 
 
